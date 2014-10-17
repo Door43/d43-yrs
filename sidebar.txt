@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yrs:home|Door43 (yrs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yrs|d43-yrs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yrs/archive/master.zip|d43-yrs.zip]]
+
+**Recent Changes**
+{{changes>ns = yrs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yrs|Ethnologue data]]
+
